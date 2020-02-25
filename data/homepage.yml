@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Virtually Painless Laser Hair Removal "
   content : ""
-  image : "images/banner.png"
+  image : "images/logo.png"
   # button
   button:
     enable : true
@@ -19,7 +19,7 @@ about:
   enable : true
   title : "About Our Product"
   content : "Soprano ICE is the latest generation of the award-winning Soprano laser hair removal system. It is the most complete and effective laser hair removal system available today.Soprano ICE is an advanced hair removal platform that incorporates multiple laser wavelengths and technologies. It offers power and versatility that allows you to treat the widest range of patients and hair types all year round."
-  image : "images/about.png"
+  image : "images/ice.png"
 
 
 ###################### Call to action ########################
@@ -41,17 +41,17 @@ material:
   materialItem:
     # material item loop
     - title : ""
-      image : "images/material/material-1.png"
+      image : "images/winner.jpg"
       content : "Experienced and licensed techs for the best customer experience"
       
     # material item loop
     - title : ""
-      image : "images/material/material-2.png"
+      image : "images/ice.png"
       content : "Using the award-winning equipment in the hair removal industry"
       
     # material item loop
     - title : ""
-      image : "images/material/material-3.png"
+      image : "images/icecubes.png"
       content : "ICE cooling technology that keeps the treatment area cool, making it more enjoyable"
     
 
