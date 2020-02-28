@@ -3,11 +3,11 @@ banner:
   enable : true
   title : "Virtually Painless Laser Hair Removal "
   content : ""
-  image : "images/logo.png"
+  image : ""
   # button
   button:
     enable : true
-    label : "Laser Services"
+    label : "Laser Pricing"
     link : "services"
   # demo video
   video:
@@ -46,12 +46,12 @@ material:
       
     # material item loop
     - title : ""
-      image : "images/ice.png"
+      image : "images/room.jpg"
       content : "Using the award-winning equipment in the hair removal industry"
       
     # material item loop
     - title : ""
-      image : "images/icecubes.png"
+      image : "images/waiting.jpg"
       content : "ICE cooling technology that keeps the treatment area cool, making it more enjoyable"
     
 
