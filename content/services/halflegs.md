@@ -17,7 +17,7 @@ shortDescription: "From Ankles up to Knees"
 productID: "1"
 
 # type must be "products"
-type: "products"
+
 
 # product Images
 # first image will be shown in the product page
