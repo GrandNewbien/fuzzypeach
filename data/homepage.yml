@@ -41,7 +41,7 @@ material:
   materialItem:
     # material item loop
     - title : ""
-      image : "images/winner.jpg"
+      image : "images/legs.jpg"
       content : "Experienced and licensed techs for the best customer experience"
       
     # material item loop
